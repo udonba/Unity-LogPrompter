@@ -1,0 +1,26 @@
+{
+  "name": "com.udonba.logprompter",
+  "displayName": "Log Prompter",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Visualize log-output in scene.",
+  "author": {
+    "name": "udonba",
+    "url": "https://github.com/udonba"
+  },
+
+  "keywords": [
+    "debug.log"
+  ],
+
+  "dependencies": {
+  },
+
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "Sample scene how to use LogPrompter",
+      "path": "Samples/Sample"
+    }
+  ]
+}
