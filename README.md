@@ -13,11 +13,12 @@ Unity-LogPrompter is displaying Debug.Log output to TextMeshPro or TextMeshProUG
 ## Git Path (Unity Package Manager)
 https://github.com/udonba/Unity-LogPrompter.git?path=Assets/LogPrompter
 
-## Usage
-Add LogPrompter component to GameObject.  
-(Need TextMeshPro or TextMeshProUGUI in same gameObject)
-
 UPM included sample scene.  
 ![image](https://user-images.githubusercontent.com/41992866/129999346-ca4a01a2-8914-4d34-b6a1-2387818aa4f8.png)
 
+## Usage
+Add `LogPrompter` component to GameObject.  
+(Need TextMeshPro or TextMeshProUGUI in same gameObject)
+
+[日本語の解説記事(Qiita)](https://qiita.com/_udonba/items/7453c1a2cca1517857e3)
 
